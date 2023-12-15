@@ -16,13 +16,13 @@ bukov_test_userv
 
 Логин
 ```
-ookladnikova
+admin
 ```
 
 
 Пароль
 ```
-N8S-vZu-N8z-EV9
+XAY-7iF-Kvb-vuS
 ```
 
 
